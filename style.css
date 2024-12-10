@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    font-family: "Montserrat", "sans-serif";
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    width: 70%;
+    border-radius: 200px;
+    border-style: solid;
+    border-color: blue;
+    border-left: thick;
+    border-top: thick;
+}
